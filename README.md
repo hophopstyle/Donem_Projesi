@@ -3,7 +3,6 @@ Donem_Projesi
 
 Mobile Blood Bank App
 
-
 Kocaeli University 7.th Term Project
 
 Definition
@@ -15,5 +14,7 @@ Biraz daha açacak olursak kan bağışında bulunmak isteyen gönüllülerle ka
 http://mobilkanbankasi.blogspot.com.tr/
 
 M.Samet ALBAYRAK
+
 Edip ŞAHİN
+
 Direnç KOÇAK
