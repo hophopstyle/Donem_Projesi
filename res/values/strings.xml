@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Donem_Projesi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_kan_gonullusu">Dönem Projesi</string>
+    <string name="title_activity_kan_arama">KanArama</string>
+    <string name="title_activity_uye_ol">UyeOl</string>
+
+</resources>
